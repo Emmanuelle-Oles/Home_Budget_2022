@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeBudget888WPF", "HomeBudget888WPF.csproj", "{8BB07239-C72F-4776-B01D-5C3112B30FE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PresenterTests", "..\PresenterTests\PresenterTests.csproj", "{60F8B929-14CD-4D75-B6C6-6F697B01BD1A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HomeBudgetSetup", "..\HomeBudgetSetup\HomeBudgetSetup.vdproj", "{70EBF192-04C0-435C-A563-C3DBA9B2E86A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB07239-C72F-4776-B01D-5C3112B30FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB07239-C72F-4776-B01D-5C3112B30FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB07239-C72F-4776-B01D-5C3112B30FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB07239-C72F-4776-B01D-5C3112B30FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F8B929-14CD-4D75-B6C6-6F697B01BD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F8B929-14CD-4D75-B6C6-6F697B01BD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F8B929-14CD-4D75-B6C6-6F697B01BD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F8B929-14CD-4D75-B6C6-6F697B01BD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70EBF192-04C0-435C-A563-C3DBA9B2E86A}.Debug|Any CPU.ActiveCfg = Debug
+		{70EBF192-04C0-435C-A563-C3DBA9B2E86A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B25C308-1BD9-4A3D-9F2F-B170FA8FACE5}
+	EndGlobalSection
+EndGlobal
